@@ -7,3 +7,6 @@
 <h2 align="center"> Note: Game build inside "Misc" folder</h2>  
 
  
+<p align="center">
+<img src="https://github.com/ReanSchwarzer1/Turn-based-Card-Fighting-game-Xamk-Module/blob/main/Misc/game.jpg">
+</p>
